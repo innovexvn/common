@@ -5,12 +5,12 @@
     <parent>
         <groupId>com.phunghv</groupId>
         <artifactId>parent</artifactId>
-        <version>1.0.0</version>
+        <version>1.0.0-SNAPSHOT</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.phunghv</groupId>
     <artifactId>common</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.0-SNAPSHOT</version>
     <name>common</name>
     <description>common</description>
 
